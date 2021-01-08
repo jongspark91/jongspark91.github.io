@@ -6,7 +6,7 @@ main:
     url: /mldl/
   - title: "Projects"
     url: /projects/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
