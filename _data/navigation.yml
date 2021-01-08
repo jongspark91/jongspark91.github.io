@@ -2,10 +2,10 @@
 main:
   - title: "All Posts"
     url: /posts/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "ML/DL"
+    url: /mldl/
+  - title: "Projects"
+    url: /projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
