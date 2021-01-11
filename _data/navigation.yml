@@ -2,11 +2,11 @@
 main:
   - title: "All Posts"
     url: /posts/
-  - title: "ML/DL"
-    url: /mldl/
+  - title: "MLDL"
+    url: /categories/MLDL/
   - title: "Projects"
-    url: /projects/
+    url: /categories/projects/
   - title: "Categories"
     url: /categories/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Tags"
+    url: /tags/
