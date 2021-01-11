@@ -14,7 +14,7 @@ tags:
 # Data-Driven Approach
 To simply explain Data-Driven Approach, it is an approach to train a model with abundant data.
 
-Before this, there were many attempts to create classifier models.
+Before this approach, there were many attempts to create classifier models.
 
 ![cs231n](https://user-images.githubusercontent.com/74899925/104215314-ebe07b00-547b-11eb-89c9-07b71deefd56.png)
 *http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture2.pdf*
